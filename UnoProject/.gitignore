@@ -1,1 +1,10 @@
 /bin/
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Java generated files
+*.class
+bin/
+target/
